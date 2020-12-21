@@ -18,6 +18,11 @@ Step pengunaan github.
   - git push origin master.
 
 Jika git push origin master gagal coba cari berikut ini :
+
+Pertama :
+  - git push -u origin master
+  
+Kedua :
   - git init
   - git remote -v (for checking current repository
   - git add -A(add all files)
