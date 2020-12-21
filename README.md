@@ -20,6 +20,7 @@ Step pengunaan github.
 Jika git push origin master gagal coba cari berikut ini :
 
 Pertama :
+  - git push origin master --force
   - git push -u origin master
   
 Kedua :
